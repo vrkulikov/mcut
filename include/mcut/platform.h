@@ -45,6 +45,8 @@
 #ifndef MC_PLATFORM_H_
 #define MC_PLATFORM_H_
 
+#include <cstdint>
+
 #ifdef __cplusplus
 extern "C"
 {
